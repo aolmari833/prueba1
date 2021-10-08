@@ -23,7 +23,7 @@ import { Joke } from '../app.module';
   (click)="createJoke(setup.value, punchline.value)">Create
 
   </button>
-</div>d
+</div>
   `
 })
 export class JokeFormComponent {
